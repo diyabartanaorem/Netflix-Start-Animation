@@ -1,5 +1,5 @@
 # Netflix Start Animation
-<!--Deployed link - https://diyabarta-naorem.github.io/Netflix-Start-Animation/-->
+Deployed link - https://netflix-start-animation-diya.netlify.app/
 
 
 ### `Description:`
